@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "42933549080",
+    "firebase_url": "https://projectprueba3-default-rtdb.firebaseio.com",
+    "project_id": "projectprueba3",
+    "storage_bucket": "projectprueba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42933549080:android:bd08ab60026f0964282b6d",
+        "android_client_info": {
+          "package_name": "com.example.terceraaplicacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAunqJFCInHl_C5I3PkSzFYlUTY-OYjE8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
